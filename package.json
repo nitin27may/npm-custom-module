@@ -1,5 +1,5 @@
 {
-  "name": "custom-css",
+  "name": "nks-custom-css",
   "version": "1.0.0",
   "description": "This is a test module to publish css file on npm",
   "main": "index.css",
