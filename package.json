@@ -1,0 +1,11 @@
+{
+  "name": "custom-css",
+  "version": "1.0.0",
+  "description": "This is a test module to publish css file on npm",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin Singh",
+  "license": "ISC"
+}
