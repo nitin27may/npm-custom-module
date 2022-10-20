@@ -1,6 +1,6 @@
 {
   "name": "nks-custom-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a test module to publish css file on npm",
   "main": "index.css",
   "scripts": {
